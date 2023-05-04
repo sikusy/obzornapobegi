@@ -1,0 +1,39 @@
+/*
+Theme Name: Keep it simply
+Author: Sitnik Anzhelika
+Requires at least: 6.1
+Tested up to: 6.2
+Requires PHP: 5.6
+Version: 1.1
+Text Domain: keepitsimly
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready, wide-blocks, block-styles, accessibility-ready, blog, portfolio, news
+*/
+#acodeess {
+    background: #4572BF; /* сплошной цвет для старых браузеров */
+    background: -moz-linear-gradient (#4572BF, #6187C7);
+    background: -o-linear-gradient(#4572BF, #6187C7);
+    background: -webkit-gradient (linear, 0% 0%, 0% 100%, from(#4572 background:
+    -webkit-linear-gradient(#4572BF, #6187C7); 
+    -webkit-box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 2px; 
+    -moz-box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 2px;
+     box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 2px; 
+     clear: both: 
+     display: block;
+    float: left;
+    .sidebar .widget_search .submit-search
+background:url(img/search-icon.png) no-repeat;
+box-shadow: none;
+border: none;
+cursor: pointer;
+width: 18px;
+height: 18px;
+min-height: 18px;
+margin: -9px 0 00;
+padding: 0;
+position: absolute;
+top: 508;
+right: 18px;
+.sidebar .widget search screen-reader-text{
+    display: none;
+.sidebar .widget #s
+width: 100%;}
